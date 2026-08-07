@@ -1,0 +1,13 @@
+photo_id,zone_id,business_id,title,description,display_order,active,created_at
+F001,Z001,N001,Masaje relajante,Sesión de masaje relajante.,1,TRUE,2026-08-02
+F002,Z001,N001,Cabina de masaje,Espacio acondicionado para la atención.,2,TRUE,2026-08-02
+F003,Z001,N001,Aceites esenciales,Productos utilizados durante la sesión.,3,TRUE,2026-08-02
+F001,Z001,N002,Evento corporativo,Participación en evento empresarial.,1,TRUE,2026-08-02
+F002,Z001,N002,Promoción de marca,Activación promocional con clientes.,2,TRUE,2026-08-02
+F003,Z001,N002,Uniforme profesional,Presentación e imagen del servicio.,3,TRUE,2026-08-02
+F001,Z001,N003,Clase 1,Sesión de matemáticas.,1,TRUE,2026-08-02
+F002,Z001,N003,Clase 2,Actividad de lectura.,2,TRUE,2026-08-02
+F003,Z001,N003,Clase 3,Práctica de ciencias.,3,TRUE,2026-08-02
+F001,Z001,N004,Presentación 1,Coreografía para evento social.,1,TRUE,2026-08-02
+F002,Z001,N004,Presentación 2,Espectáculo artístico en escenario.,2,TRUE,2026-08-02
+F003,Z001,N004,Presentación 3,Show temático para celebración.,3,TRUE,2026-08-02
