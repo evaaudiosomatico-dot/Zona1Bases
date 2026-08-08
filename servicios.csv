@@ -1,0 +1,13 @@
+﻿photo_id,zone_id,business_id,title,description,display_order,active,created_at
+F001,Z001,N001,Extensiones clásicas,"Aplicación clásica para una mirada natural, delicada y definida.",1,True,2026-08-07
+F002,Z001,N001,Mirada natural,Resultado limpio y elegante con efecto natural.,2,True,2026-08-07
+F003,Z001,N001,Acabado de pestañas,Detalle de las extensiones y definición de la mirada.,3,True,2026-08-07
+F001,Z001,N002,Volumen ruso,Aplicación de volumen para una mirada intensa y sofisticada.,1,True,2026-08-07
+F002,Z001,N002,Volumen definido,Mayor densidad y definición manteniendo un acabado elegante.,2,True,2026-08-07
+F003,Z001,N002,Mirada glamorosa,Acabado de volumen con efecto más marcado y expresivo.,3,True,2026-08-07
+F001,Z001,N003,Lash lifting,Levantamiento de pestañas para abrir y realzar la mirada.,1,True,2026-08-07
+F002,Z001,N003,Curvatura natural,Curvatura uniforme para un resultado fresco y natural.,2,True,2026-08-07
+F003,Z001,N003,Resultado lash lifting,Pestañas levantadas y definidas con acabado limpio.,3,True,2026-08-07
+F001,Z001,N004,Diseño de cejas,Forma personalizada para armonizar y definir la mirada.,1,True,2026-08-07
+F002,Z001,N004,Perfilado de cejas,Cejas cuidadosamente definidas respetando la forma natural.,2,True,2026-08-07
+F003,Z001,N004,Cejas naturales,Acabado pulido y natural que enmarca el rostro.,3,True,2026-08-07

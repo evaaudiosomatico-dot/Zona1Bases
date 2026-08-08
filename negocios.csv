@@ -1,0 +1,5 @@
+﻿business_id,zone_id,name,description,whatsapp,address,maps,facebook,instagram,website,service_type,featured,active,display_order,created_at
+N001,Z001,Extensiones Clásicas,"Extensiones de pestañas clásicas, naturales, delicadas y perfectas para realzar tu mirada.",7227274913,,,,,,Pestañas,True,True,1,2026-08-07
+N002,Z001,Volumen Ruso,"Volumen ruso para una mirada más intensa, definida y glamorosa.",7227274913,,,,,,Pestañas,False,True,2,2026-08-07
+N003,Z001,Lash Lifting,"Lash lifting para levantar, definir y dar una apariencia natural a tus pestañas.",7227274913,,,,,,Pestañas,False,True,3,2026-08-07
+N004,Z001,Diseño de Cejas,Diseño personalizado de cejas con medición precisa y acabado natural para definir tu mirada.,7227274913,,,,,,Cejas,False,True,4,2026-08-07
